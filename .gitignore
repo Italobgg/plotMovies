@@ -1,0 +1,14 @@
+# Ignora a pasta node_modules
+node_modules/
+
+# Ignora arquivos de ambiente
+.env
+
+# Ignora arquivos de build e temporários
+dist/
+build/
+temp/
+
+# Ignora arquivos do sistema operacional
+.DS_Store
+Thumbs.db
